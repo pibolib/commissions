@@ -1,3 +1,3 @@
 # commissions
 
-You shouldn't be able to see this!
+pibolib's Commission repo. The real info is in the issues tab.
